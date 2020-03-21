@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="253a7abc-2c24-4f5d-bd33-5e35af53b39c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="154" column="128" selection-start-line="154" selection-start-column="118" selection-end-line="154" selection-end-column="128" />
+              <folding>
+                <element signature="e#261#276#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/eval_linemod.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="93" column="35" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/linemod/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5187">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/loss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/loss_refiner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/visual_refine/visual_point.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visual_refine/pred.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/visual_refine/target.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="114" column="37" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>points</find>
+      <find>model_points</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tools/train.py" />
+        <option value="$PROJECT_DIR$/datasets/linemod/dataset.py" />
+        <option value="$PROJECT_DIR$/lib/loss.py" />
+        <option value="$PROJECT_DIR$/visual_refine/visual_point.py" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="672" />
+    <option name="y" value="203" />
+    <option name="width" value="1325" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectId" id="1ZL3tBWBYc2K0N3xz9M62O08pOn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="linemod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="replace_ycb_toolbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="trained_models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="trained_models" type="462c0819:PsiDirectoryNode" />
+              <item name="ycb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DenseFusion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DenseFusion" type="462c0819:PsiDirectoryNode" />
+              <item name="visual_refine" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/visual_refine" />
+      <recent name="$PROJECT_DIR$/lib/knn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.visual_point (1)">
+    <configuration name="eval_linemod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DenseFusion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/eval_linemod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DenseFusion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/knn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/knn/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DenseFusion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visual_point (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DenseFusion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/visual_refine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visual_refine/visual_point.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visual_point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DenseFusion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/visual" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/visual/visual_point.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.eval_linemod" />
+      <item itemvalue="Python.setup" />
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.visual_point (1)" />
+      <item itemvalue="Python.visual_point" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.visual_point (1)" />
+        <item itemvalue="Python.eval_linemod" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.visual_point" />
+        <item itemvalue="Python.setup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="253a7abc-2c24-4f5d-bd33-5e35af53b39c" name="Default Changelist" comment="" />
+      <created>1584604758899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584604758899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20607662" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584756692600">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="418" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1920.1000@0.31.1920.1000" timestamp="1584756692600" />
+    <state x="541" y="338" width="833" height="391" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584678715967">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="541" y="338" width="833" height="391" key="#com.intellij.fileTypes.FileTypeChooser/0.31.1920.1000@0.31.1920.1000" timestamp="1584678715967" />
+    <state x="641" y="141" width="633" height="785" key="#train" timestamp="1584607868267">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="641" y="141" width="633" height="785" key="#train/0.31.1920.1000@0.31.1920.1000" timestamp="1584607868267" />
+    <state width="1767" height="466" key="DebuggerActiveHint" timestamp="1584762326169">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="1767" height="466" key="DebuggerActiveHint/0.31.1920.1000@0.31.1920.1000" timestamp="1584762326169" />
+    <state x="743" y="290" width="430" height="486" key="FileChooserDialogImpl" timestamp="1584666507363">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="743" y="290" width="430" height="486" key="FileChooserDialogImpl/0.31.1920.1000@0.31.1920.1000" timestamp="1584666507363" />
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom" timestamp="1584763918819">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom/0.31.1920.1000@0.31.1920.1000" timestamp="1584763918819" />
+    <state width="1878" height="276" key="GridCell.Tab.0.center" timestamp="1584763918819">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.center/0.31.1920.1000@0.31.1920.1000" timestamp="1584763918819" />
+    <state width="1878" height="276" key="GridCell.Tab.0.left" timestamp="1584763918818">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.left/0.31.1920.1000@0.31.1920.1000" timestamp="1584763918818" />
+    <state width="1878" height="276" key="GridCell.Tab.0.right" timestamp="1584763918819">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.0.right/0.31.1920.1000@0.31.1920.1000" timestamp="1584763918819" />
+    <state width="1878" height="276" key="GridCell.Tab.1.bottom" timestamp="1584763918820">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.1.bottom/0.31.1920.1000@0.31.1920.1000" timestamp="1584763918820" />
+    <state width="1878" height="276" key="GridCell.Tab.1.center" timestamp="1584763918819">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.1.center/0.31.1920.1000@0.31.1920.1000" timestamp="1584763918819" />
+    <state width="1878" height="276" key="GridCell.Tab.1.left" timestamp="1584763918819">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.1.left/0.31.1920.1000@0.31.1920.1000" timestamp="1584763918819" />
+    <state width="1878" height="276" key="GridCell.Tab.1.right" timestamp="1584763918820">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state width="1878" height="276" key="GridCell.Tab.1.right/0.31.1920.1000@0.31.1920.1000" timestamp="1584763918820" />
+    <state x="449" y="167" width="1022" height="732" key="SettingsEditor" timestamp="1584684327187">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="449" y="167" width="1022" height="732" key="SettingsEditor/0.31.1920.1000@0.31.1920.1000" timestamp="1584684327187" />
+    <state x="516" y="271" width="883" height="524" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584762430082">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="516" y="271" width="883" height="524" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.31.1920.1000@0.31.1920.1000" timestamp="1584762430082" />
+    <state x="279" y="98" width="1595" height="742" key="dock-window-1" timestamp="1584756337556">
+      <screen x="0" y="31" width="1920" height="1000" />
+    </state>
+    <state x="279" y="98" width="1595" height="742" key="dock-window-1/0.31.1920.1000@0.31.1920.1000" timestamp="1584756337556" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ttttttt.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/eval_linemod.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret line="142" selection-start-line="142" selection-end-line="142" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual/ss.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual/mask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual_refine/target.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual_refine/pred.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual_refine/new_point_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual_refine/cloud.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual_refine/2d_rigid.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual_refine/ori.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/loss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/linemod/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5187">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="154" column="128" selection-start-line="154" selection-start-column="118" selection-end-line="154" selection-end-column="128" />
+          <folding>
+            <element signature="e#261#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/eval_linemod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="93" column="35" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/loss_refiner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="114" column="37" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual_refine/visual_point.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
